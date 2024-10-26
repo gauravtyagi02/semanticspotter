@@ -4,6 +4,9 @@
 
 The goal of this project is to build a generative search system using LlamaIndex and a language model (LLM) that allows users to search through a large dataset of fashion products based on natural language queries. The system is designed to understand the semantics of user queries, process fashion product descriptions, and return relevant product results based on various attributes like color, style, price, and other fashion-specific features.
 
+## Project Link
+https://github.com/gauravtyagi02/semanticspotter
+
 ### Features:
 - Search for fashion products (e.g., clothing items) using natural language queries.
 - Filter results by attributes such as color, style, occasion, fabric, and more.
